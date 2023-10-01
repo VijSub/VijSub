@@ -3,4 +3,4 @@
 <h2>Projects:</h2>
 
 - <b>Multi-Function Calculator</b>
-  - [Multi-Function Calculator]()
+  - [Multi-Function Calculator link](https://github.com/VijSub/Multi-Function_Calculator)
