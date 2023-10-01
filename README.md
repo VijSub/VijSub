@@ -3,4 +3,4 @@
 <h2>Projects:</h2>
 
 - <b>Multi-Function Calculator</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Multi-Function Calculator]()
