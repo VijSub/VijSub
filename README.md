@@ -3,4 +3,4 @@
 <h2>👨‍💻 Math Utilities:</h2>
 
 - <b>Multi-Function Calculator</b>
-  - [Multi-Function Calculator](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Multi-Function Calculator link](https://github.com/joshmadakor1/Algorithms-Practice)
