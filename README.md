@@ -5,4 +5,4 @@
   - [Multi-Function Calculator link](https://github.com/VijSub/Multi-Function_Calculator)
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Praciting DS & Algos in Python]([https://github.com/VijSub/Multi-Function_Calculator](https://github.com/VijSub/Multi-Function_Calculator)https://github.com/VijSub/Multi-Function_Calculator)
