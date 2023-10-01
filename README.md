@@ -3,3 +3,6 @@
 <h2>👨‍💻 Math Utilities:</h2>
 - <b>Multi-Function Calculator</b>
   - [Multi-Function Calculator link](https://github.com/VijSub/Multi-Function_Calculator)
+
+- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
