@@ -4,3 +4,5 @@
 
 - <b>Multi-Function Calculator</b>
   - [Multi-Function Calculator link](https://github.com/VijSub/Multi-Function_Calculator)
+- <b>Graphing Calculator</b>
+  - [Graphing Calculator link](https://github.com/VijSub/Graphing_Calculator)
