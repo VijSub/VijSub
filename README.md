@@ -7,4 +7,4 @@
 - <b>Graphing Calculator</b>
   - [Graphing Calculator link](https://github.com/VijSub/Graphing_Calculator)
 - <b>Financial Calculator</b>
-  - [Financial Calculator link](https://github.com/VijSub/Graphing_Calculator)
+  - [Financial Calculator link](https://github.com/VijSub/Financial_Calculator)
