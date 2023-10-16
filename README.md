@@ -8,3 +8,5 @@
   - [Graphing Calculator link](https://github.com/VijSub/Graphing_Calculator)
 - <b>Financial Calculator</b>
   - [Financial Calculator link](https://github.com/VijSub/Financial_Calculator)
+- <b>Data Graph Explorer</b>
+  - [Data Graph Explorer link](https://github.com/VijSub/Data_Graph_Explorer)
