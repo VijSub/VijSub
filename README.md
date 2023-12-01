@@ -21,5 +21,5 @@
  
  <h2>🤳Connect with me:</h2>
  
-[LinkedIn 🤝](https://www.linkedin.com/in/vijay-subramanian1793/)
+[LinkedIn](https://www.linkedin.com/in/vijay-subramanian1793/)
 
