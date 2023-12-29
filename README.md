@@ -19,6 +19,8 @@
   - [Random Quote Machine link](https://github.com/VijSub/Random_Quote_Machine)
 - <b>Markdown Previewer</b>
   - [Markdown Previewer link](https://vijay-markdown-previewer.netlify.app/)
+- <b>Drum Machine</b>
+  - [Drum Machine link](https://vijay-drum-machine.netlify.app/)
  
  <h2>🤳Connect with me:</h2>
  
