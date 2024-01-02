@@ -1,6 +1,17 @@
-<h1>Hi, I'm Vijay! <br/><a href="https://github.com/VijSub">Programmer</a>, <a href="https://www.linkedin.com/in/vijay-s-880a30218/">Informatics Student at RWTH Aachen</a></h1>
+<h1>Hi, I'm Vijay! <br/><a href="https://github.com/VijSub">Front End Developer</a>, <a href="https://www.linkedin.com/in/vijay-s-880a30218/">Informatics Student at RWTH Aachen</a></h1>
 
 <h2>👨‍💻 Software Development Projects: </h2>
+
+<h3>Front End Development Libraries Projects:</h3>
+
+- <b>Random Quote Machine</b>
+  - [Random Quote Machine link](https://github.com/VijSub/Random_Quote_Machine)
+- <b>Markdown Previewer</b>
+  - [Markdown Previewer link](https://vijay-markdown-previewer.netlify.app/)
+- <b>Drum Machine</b>
+  - [Drum Machine link](https://vijay-drum-machine.netlify.app/)
+- <b>JavaScript Calculator</b>
+  - [JavaScript Calculator link](https://vijay-javascript-calculator.netlify.app/)
 
 <h3>Math Utilities:</h3>
 
@@ -12,17 +23,6 @@
   - [Financial Calculator link](https://github.com/VijSub/Financial_Calculator)
 - <b>Data Graph Explorer</b>
   - [Data Graph Explorer link](https://github.com/VijSub/Data_Graph_Explorer)
- 
-<h3>Front End Development Libraries Projects:</h3>
-
-- <b>Random Quote Machine</b>
-  - [Random Quote Machine link](https://github.com/VijSub/Random_Quote_Machine)
-- <b>Markdown Previewer</b>
-  - [Markdown Previewer link](https://vijay-markdown-previewer.netlify.app/)
-- <b>Drum Machine</b>
-  - [Drum Machine link](https://vijay-drum-machine.netlify.app/)
-- <b>JavaScript Calculator</b>
-  - [JavaScript Calculator link](https://vijay-javascript-calculator.netlify.app/)
  
  <h2>🤳Connect with me:</h2>
  
