@@ -13,7 +13,7 @@
 - <b>Data Graph Explorer</b>
   - [Data Graph Explorer link](https://github.com/VijSub/Data_Graph_Explorer)
  
-<h3>Frontend development Projects:</h3>
+<h3>Front End Development Libraries Projects:</h3>
 
 - <b>Random Quote Machine</b>
   - [Random Quote Machine link](https://github.com/VijSub/Random_Quote_Machine)
