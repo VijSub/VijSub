@@ -21,6 +21,8 @@
   - [Markdown Previewer link](https://vijay-markdown-previewer.netlify.app/)
 - <b>Drum Machine</b>
   - [Drum Machine link](https://vijay-drum-machine.netlify.app/)
+- <b>JavaScript Calculator</b>
+  - [JavaScript Calculator link](https://vijay-javascript-calculator.netlify.app/)
  
  <h2>🤳Connect with me:</h2>
  
