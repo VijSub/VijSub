@@ -12,6 +12,8 @@
   - [Drum Machine link](https://vijay-drum-machine.netlify.app/)
 - <b>JavaScript Calculator</b>
   - [JavaScript Calculator link](https://vijay-javascript-calculator.netlify.app/)
+- <b>25 + 5 Clock</b>
+  - [25 + 5 Clock link](https://vijay-25-5-clock.netlify.app/)
 
 <h3>Math Utilities:</h3>
 
