@@ -2,10 +2,12 @@
 
 <h2>👨‍💻 Software Development Projects: </h2>
 
+- <b>[MedicineVR](https://github.com/VijSub/MedicineVR)</b>
+
 <h3>Front End Development Libraries Projects:</h3>
 
-- <b>Random Quote Machine</b>
-  - [Random Quote Machine link](https://github.com/VijSub/Random_Quote_Machine)
+- <b>[Random Quote Machine](https://github.com/VijSub/Random_Quote_Machine)</b>
+  
 - <b>Markdown Previewer</b>
   - [Markdown Previewer link](https://vijay-markdown-previewer.netlify.app/)
 - <b>Drum Machine</b>
