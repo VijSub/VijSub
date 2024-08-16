@@ -8,25 +8,23 @@
 
 - <b>[Random Quote Machine](https://github.com/VijSub/Random_Quote_Machine)</b>
   
-- <b>Markdown Previewer</b>
-  - [Markdown Previewer link](https://vijay-markdown-previewer.netlify.app/)
-- <b>Drum Machine</b>
-  - [Drum Machine link](https://vijay-drum-machine.netlify.app/)
-- <b>JavaScript Calculator</b>
-  - [JavaScript Calculator link](https://vijay-javascript-calculator.netlify.app/)
-- <b>25 + 5 Clock</b>
-  - [25 + 5 Clock link](https://vijay-25-5-clock.netlify.app/)
+- <b>[Markdown Previewer](https://vijay-markdown-previewer.netlify.app/)</b>
+  
+- <b>[Drum Machine](https://vijay-drum-machine.netlify.app/)</b>
+  
+- <b>[JavaScript Calculator](https://vijay-javascript-calculator.netlify.app/)</b>
+  
+- <b>[25 + 5 Clock](https://vijay-25-5-clock.netlify.app/)</b>
 
 <h3>Math Utilities:</h3>
 
-- <b>Multi-Function Calculator</b>
-  - [Multi-Function Calculator link](https://github.com/VijSub/Multi-Function_Calculator)
-- <b>Graphing Calculator</b>
-  - [Graphing Calculator link](https://github.com/VijSub/Graphing_Calculator)
-- <b>Financial Calculator</b>
-  - [Financial Calculator link](https://github.com/VijSub/Financial_Calculator)
-- <b>Data Graph Explorer</b>
-  - [Data Graph Explorer link](https://github.com/VijSub/Data_Graph_Explorer)
+- <b>[Multi-Function Calculator](https://github.com/VijSub/Multi-Function_Calculator)</b>
+  
+- <b>[Graphing Calculator](https://github.com/VijSub/Graphing_Calculator)</b>
+  
+- <b>[Financial Calculator](https://github.com/VijSub/Financial_Calculator)</b>
+  
+- <b>[Data Graph Explorer](https://github.com/VijSub/Data_Graph_Explorer)</b>
  
  <h2>🤳Connect with me:</h2>
  
