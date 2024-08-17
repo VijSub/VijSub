@@ -1,4 +1,4 @@
-<h1>Hi, I'm Vijay! <br/><a href="https://github.com/VijSub">Front End Developer</a>, <a href="https://www.linkedin.com/in/vijay-s-880a30218/">Informatics Student at RWTH Aachen</a></h1>
+<h1>Hi, I'm Vijay! <br/><a href="https://github.com/VijSub">Informatics student at RWTH Aachen University</a>, <a href="https://www.linkedin.com/in/vijay-s-880a30218/">Working student (Werkstudent)</a></h1>
 
 <h2>👨‍💻 Software Development Projects: </h2>
 
